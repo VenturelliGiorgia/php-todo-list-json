@@ -1,0 +1,22 @@
+[
+    {
+        "name": "HTML",
+        "done": false
+    },
+    {
+        "name": "CSS",
+        "done": false
+    },
+    {
+        "name": "JS",
+        "done": true
+    },
+    {
+        "name": "PHP",
+        "done": false
+    },
+    {
+        "name": "Laravel",
+        "done": false
+    }
+]
